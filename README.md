@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
