@@ -30,6 +30,7 @@
 | [0141-linked-list-cycle](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0112-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
