@@ -43,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -83,6 +84,7 @@
 | [0061-rotate-list](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
