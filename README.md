@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0027-remove-element) |
@@ -66,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0125-valid-palindrome) |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
