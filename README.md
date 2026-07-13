@@ -86,6 +86,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0101-symmetric-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -137,6 +139,7 @@
 | [0101-symmetric-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0226-invert-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -154,4 +157,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
