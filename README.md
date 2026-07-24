@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0189-rotate-array) |
 ## String
