@@ -81,6 +81,7 @@
 | [0007-reverse-integer](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -192,6 +193,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
