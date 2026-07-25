@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@
 | [0009-palindrome-number](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
