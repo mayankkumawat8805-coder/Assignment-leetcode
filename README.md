@@ -86,6 +86,7 @@
 | [0012-integer-to-roman](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -97,6 +98,7 @@
 | [0014-longest-common-prefix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0290-word-pattern) |
@@ -202,10 +204,12 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
