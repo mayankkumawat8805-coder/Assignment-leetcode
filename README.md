@@ -49,6 +49,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -65,6 +66,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
@@ -88,6 +90,7 @@
 | [0066-plus-one](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
