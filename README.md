@@ -99,6 +99,7 @@
 | [0006-zigzag-conversion](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0067-add-binary) |
@@ -218,4 +219,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
