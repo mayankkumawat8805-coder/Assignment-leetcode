@@ -32,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0014-longest-common-prefix) |
@@ -174,6 +176,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
