@@ -26,6 +26,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -238,6 +239,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
