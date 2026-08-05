@@ -21,6 +21,7 @@
 | [0075-sort-colors](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0169-majority-element) |
 ## Counting
@@ -164,6 +166,7 @@
 | [0100-same-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0113-path-sum-ii) |
@@ -197,6 +200,7 @@
 | [0100-same-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0113-path-sum-ii) |
@@ -276,5 +280,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
