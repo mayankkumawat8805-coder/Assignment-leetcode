@@ -54,6 +54,7 @@
 | [0125-valid-palindrome](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0202-happy-number) |
@@ -75,6 +76,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0205-isomorphic-strings) |
@@ -156,6 +158,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
