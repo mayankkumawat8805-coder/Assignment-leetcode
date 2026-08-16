@@ -110,6 +110,7 @@
 | [0012-integer-to-roman](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0070-climbing-stairs) |
@@ -240,6 +241,7 @@
 | [0005-longest-palindromic-substring](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -325,4 +327,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
