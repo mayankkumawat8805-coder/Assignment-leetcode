@@ -15,6 +15,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0169-majority-element) |
@@ -77,6 +79,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0141-linked-list-cycle) |
@@ -128,6 +131,7 @@
 | [0014-longest-common-prefix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0125-valid-palindrome) |
