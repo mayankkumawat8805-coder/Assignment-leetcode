@@ -190,6 +190,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0100-same-tree) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0100-same-tree) |
@@ -253,6 +255,7 @@
 | [0055-jump-game](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -322,10 +325,12 @@
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
