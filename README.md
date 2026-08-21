@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0148-sort-list) |
@@ -252,6 +254,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0070-climbing-stairs) |
