@@ -19,6 +19,7 @@
 | [0053-maximum-subarray](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0075-sort-colors) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Tree
 |  |
@@ -261,6 +263,7 @@
 | [0055-jump-game](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0096-unique-binary-search-trees) |
