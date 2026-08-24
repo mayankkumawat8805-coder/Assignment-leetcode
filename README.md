@@ -17,6 +17,7 @@
 | [0035-search-insert-position](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0055-jump-game) |
@@ -126,6 +127,7 @@
 | [0012-integer-to-roman](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0067-add-binary) |
@@ -199,6 +201,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0074-search-a-2d-matrix) |
