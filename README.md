@@ -23,6 +23,7 @@
 | [0066-plus-one](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -298,6 +299,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -342,6 +344,7 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
