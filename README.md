@@ -133,6 +133,7 @@
 | [0067-add-binary](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0172-factorial-trailing-zeroes](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mayankkumawat8805-coder/Assignment-leetcode/tree/master/0202-happy-number) |
 ## String
